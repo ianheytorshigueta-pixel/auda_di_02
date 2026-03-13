@@ -1,0 +1,19 @@
+body{
+    /*no body eu controlo a página toda*/
+    font-family: Arial, Helvetica, sans-serif; /*fonte da página*/
+    background-color: yellow; /*cor de fundo da página*/
+    color:blue; /*cor da fonte*/
+}
+header{
+    background-color: red;
+    color: whitesmoke;
+}
+footer{
+    background-color:blueviolet;
+    color: orangered;
+    height:100px; /*altura do componente*/
+}
+a{
+    color:black;
+    padding:auto; /*espaço entre as margens*/
+}
